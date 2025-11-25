@@ -67,7 +67,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <span>© Copyright By Hayder Labidi & Jasser Jlassi</a></span>
+                    <span>© Copyright By Hamed Bouallagui</a></span>
                 </div>
             </div>
         </div>
