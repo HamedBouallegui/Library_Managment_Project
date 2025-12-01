@@ -45,7 +45,7 @@ password: hamed123
 # That's all 🎊🎉 
 
 ## ScreenShots
-<img src="screenshots/img3.png" width="100%" /><br /> <br />
+<img src="Screenshots/img3.png" width="100%" /><br /> <br />
 <img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_37_39 PM.png" width="100%" /><br /> <br />
 <img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_37_51 PM.png" width="100%" /><br /> <br />
 <img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_37_59 PM.png" width="100%" /><br /> <br />
