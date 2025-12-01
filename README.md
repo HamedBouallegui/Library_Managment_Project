@@ -45,17 +45,11 @@ password: hamed123
 # That's all 🎊🎉 
 
 ## ScreenShots
-<img src="screenshots2/img2.png" width="100%" /><br /> <br />
-<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_37_39 PM.png" width="100%" /><br /> <br />
-<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_37_51 PM.png" width="100%" /><br /> <br />
-<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_37_59 PM.png" width="100%" /><br /> <br />
-<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_38_14 PM.png" width="100%" /><br /> <br />
-<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_38_31 PM.png" width="100%" /><br /> <br />
-<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_38_26 PM.png" width="100%" /><br /> <br />
-<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_38_37 PM.png" width="100%" /><br /> <br />
-<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_38_44 PM.png" width="100%" /><br /> <br />
-<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_38_50 PM.png" width="100%" /><br /> <br />
-<img src="screenshots2/Laravel - Google Chrome 12_8_2024 9_39_19 PM.png" width="100%" /><br /> <br />
+<img src="Screenshots/img2.png" width="100%" /><br /><br />
+<img src="Screenshots/img3.png" width="100%" /><br /><br />
+<img src="Screenshots/img4.png" width="100%" /><br /><br />
+<img src="Screenshots/img1.png" width="100%" /><br /><br />
+<img src="Screenshots/img.png" width="100%" /><br /><br />
 
 
 ```
