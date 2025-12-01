@@ -5,7 +5,7 @@
 ## Quick Start 
 clone the repo
 ```
-    git clone https://github.com/HayderLabidi/libraray_managment.git
+    git clone https://github.com/HamedBouallegui/Libraray_Managment.git
 ```
 
 change current directory
@@ -39,8 +39,8 @@ php artisan serve
 ```
 credentails
 ```
-username: hayder
-password: password
+username: Hamed Bouallagui
+password: hamed123
 ```
 # That's all 🎊🎉 
 
