@@ -45,11 +45,11 @@ password: hamed123
 # That's all 🎊🎉 
 
 ## ScreenShots
-<img src="Screenshots/img2.png" width="100%" /><br /><br />
-<img src="Screenshots/img3.png" width="100%" /><br /><br />
-<img src="Screenshots/img4.png" width="100%" /><br /><br />
-<img src="Screenshots/img1.png" width="100%" /><br /><br />
-<img src="Screenshots/img.png" width="100%" /><br /><br />
+<img src="screenshots2/img2.png" width="100%" /><br /><br />
+<img src="screenshots2/img3.png" width="100%" /><br /><br />
+<img src="screenshots2/img4.png" width="100%" /><br /><br />
+<img src="screenshots2/img1.png" width="100%" /><br /><br />
+<img src="screenshots2/img.png" width="100%" /><br /><br />
 
 
 ```
